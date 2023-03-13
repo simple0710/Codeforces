@@ -1,4 +1,4 @@
-# 2023/03/13 Math
+# 2023/03/13 Math, Greedy
 # https://codeforces.com/contest/1804/problem/A
 import sys
 input = sys.stdin.readline
