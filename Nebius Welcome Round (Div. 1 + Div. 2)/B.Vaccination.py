@@ -21,4 +21,3 @@ for _ in range(int(input())):
     res += 1
   # 정답 출력
   print(res)
-
